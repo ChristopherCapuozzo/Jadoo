@@ -1,0 +1,28 @@
+/*============= RESPONSIVE =============*/
+
+@media screen and (max-width: 1200px) {
+    
+}
+
+@media screen and (max-width: 992px) {
+    .nav-link {
+        display: none;
+    }
+
+    /*=======================================*/
+
+    .conteneur-photo {
+        flex-direction: column;
+        align-items: center;
+    }
+
+
+}
+
+@media screen and (max-width: 768px) {
+    
+}
+
+@media screen and (max-width: 576px) {
+    
+}
