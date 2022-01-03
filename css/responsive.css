@@ -5,8 +5,13 @@
 }
 
 @media screen and (max-width: 992px) {
-    .nav-link {
+    .liens {
         display: none;
+    }
+
+    #nav-burger {
+        display: block;
+        margin-right: -250px;
     }
 
     /*=======================================*/

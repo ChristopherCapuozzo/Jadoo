@@ -6,6 +6,10 @@ body {
     overflow-x: hidden;
 }
 
+body::-webkit-scrollbar {
+    display: none;
+}
+
 a {
     text-decoration: none;
     color: #000000;
@@ -67,6 +71,10 @@ a {
 
 
 /*Liste navigations*/
+
+#nav-burger {
+   display: none;
+}
 
 .nav-link {
     list-style-type: none;
