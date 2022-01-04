@@ -41,11 +41,11 @@
 
 @media screen and (max-width: 671px) {
     .texte-gris {
-        margin-top: 160px;
+        margin-top: 200px;
     }
 
     .trait-rose {
-        left: 130px;
-        top: 380px;
+        left: 100px;
+        top: 420px;
     }
 }
