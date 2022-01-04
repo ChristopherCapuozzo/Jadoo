@@ -21,6 +21,17 @@
         align-items: center;
     }
 
+    article {
+        text-align: center;
+    }
+
+    h5 .texte-gris {
+        text-align: center;
+    }
+
+    .trait-rose {
+        left: 200px;
+    }
 
 }
 
