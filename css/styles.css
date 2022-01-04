@@ -348,7 +348,8 @@ section::after {
 #block-3 .h1-1 {
     color: white;
     font-family: "VolkhovBold";
-    max-width: 600px;
+    min-width: 100%;
+    font-size: 84px;
 }
 
 #block-3 h5 {
