@@ -16,12 +16,11 @@
 
     /*=======================================*/
 
-    .conteneur-photo {
-        flex-direction: column;
-        align-items: center;
+    .conteneur-photo figure {
+        display: none
     }
 
-    article {
+    #block-1 article {
         text-align: center;
     }
 
@@ -33,6 +32,17 @@
         left: 200px;
     }
 
+    .form-droite {
+        display: none;
+    }
+
+    .texte-noir {
+        text-align: center;
+    }
+    
+    .texte-gris-2 {
+        text-align: center;
+    }
 }
 
 @media screen and (max-width: 768px) {
@@ -48,4 +58,6 @@
         left: 100px;
         top: 420px;
     }
+
+    
 }
