@@ -39,6 +39,13 @@
     
 }
 
-@media screen and (max-width: 576px) {
-    
+@media screen and (max-width: 671px) {
+    .texte-gris {
+        margin-top: 160px;
+    }
+
+    .trait-rose {
+        left: 130px;
+        top: 380px;
+    }
 }
