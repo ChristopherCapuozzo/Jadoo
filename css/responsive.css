@@ -44,6 +44,16 @@
         text-align: center;
     }
 
+    /*=======================================*/
+
+    #block-3 {
+        background-image: none;
+        padding-bottom: 0;
+    }
+    
+    #block-4 {
+        padding-top: 60px;
+    }
     
 }
 
